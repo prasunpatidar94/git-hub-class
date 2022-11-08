@@ -1,3 +1,7 @@
+raj and niramal patidar working 
+
+
+
 This is my first class 
 
 
@@ -13,3 +17,32 @@ git push -u origin main
 git remote add origin https://github.com/prasunpatidar94/git-hub-class.git
 git branch -M main
 git push -u origin main
+
+
+https://github.com/prasunpatidar94/git-hub-class
+https://github.com/prasunpatidar94/git-hub-class.git
+
+
+
+git push -u origin main
+
+
+git push --set-upstream origin main
+git push
+
+
+ git branch --set-upstream-to=<remote>/<branch> main need to check 
+
+git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+
+n
+
+
+
+git clone https://github.com/prasunpatidar94/git-hub-class.git
+
+
+====================================================================
